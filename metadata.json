@@ -1,0 +1,6 @@
+{
+  "name": "Aryaman's Game Arcade",
+  "description": "A polished personal game arcade and launcher showcasing browser games created by Aryaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
